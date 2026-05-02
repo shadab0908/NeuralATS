@@ -1,6 +1,6 @@
 # ⚡ NEURAL ATS: AI-Powered Resume Logic Engine
 
-**NEURAL ATS** is a high-performance, full-stack recruitment tool designed to bridge the gap between static resumes and dynamic job requirements. By leveraging the **Google Gemini 2.5 Flash API**, the application moves beyond simple keyword matching to perform deep semantic "Neural Scans," providing job-seekers with professional-grade ATS compatibility reports.
+**NEURAL ATS** is a high-performance, full-stack recruitment tool designed to bridge the gap between static resumes and dynamic job requirements, the application moves beyond simple keyword matching to perform deep semantic "Neural Scans," providing job-seekers with professional-grade ATS compatibility reports.
 
 ---
 
@@ -43,4 +43,6 @@ Build and Run:
 Bash
 mvn clean install
 mvn spring-boot:run
+
+
 Developed by Shadab Javed Mulla as a project to demonstrate Java capabilities and AI integration.
